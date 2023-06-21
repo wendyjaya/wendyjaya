@@ -1,0 +1,7 @@
+echo "# wendyjaya" >> about.md
+git init
+git add about.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://wendyjaya.github.io/about.md
+git push -u origin main
