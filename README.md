@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 **Welcome to my homepage!**
 
-| [Home](https://wendyjaya.github.io/) | [About](https://wendyjaya.github.io/about) | Gallery | Reference | Contact |
+| [Home](https://wendyjaya.github.io/) | [About](https://wendyjaya.github.io/about.git) | Gallery | Reference | Contact |
