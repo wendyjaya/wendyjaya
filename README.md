@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 **Welcome to my homepage!**
 
-| [Home](https://wendyjaya.github.io/) | [About](https://wendyjaya.github.io/about.html) | [Food Gallery](https://wendyjaya.github.io/gallery.html) | [What is Git and GitHub](https://wendyjaya.github.io/whatis.html) | [My Hometown](https://wendyjaya.github.io/hometown.html) | [My Company](https://wendyjaya.github.io/hometown.html) |
+| [Home](https://wendyjaya.github.io/) | [About](https://wendyjaya.github.io/about.html) | [Food Gallery](https://wendyjaya.github.io/gallery.html) | [What is Git and GitHub](https://wendyjaya.github.io/whatis.html) | [My Hometown](https://wendyjaya.github.io/hometown.html) | [My Company](https://wendyjaya.github.io/company.html) |
