@@ -7,3 +7,5 @@ In July 2004, Riau Archipelago is separated from Riau Province. The current Riau
 
 Tanjung Pinang is full of diversity with multiple ethnic communities. It successfully attracts migrants from outside though it is not a big town. 
 You can easily find mosques, churches, Hindu temple, and vihara along its main road, where Malay, Bugis, Banjar, Java, and Sumatran live peace in harmony.
+
+![tanjungpinang1](https://github.com/wendyjaya/wendyjaya.github.io/blob/main/Taman_Gurindam_12.width-800.format-webp.webp)
