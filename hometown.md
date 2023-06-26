@@ -1,5 +1,4 @@
-## Tanjung Pinang
-### The City of Diversity
+## Tanjung Pinang - The City of Diversity
 
 __Tanjung Pinang__, the second largest town after Batam in the Riau Archipelago, today has grown into the capital city of the entire province. 
 Tanjung Pinang sited at the strategic location at the south western coast of the Island of Bintan. 
