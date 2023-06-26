@@ -10,5 +10,4 @@ You can easily find mosques, churches, Hindu temple, and vihara along its main r
 
 ![tanjungpinang4](https://github.com/wendyjaya/wendyjaya.github.io/blob/main/penyengat-island.jpg)
 ![tanjungpinang5](https://github.com/wendyjaya/wendyjaya.github.io/blob/main/photo2jpg.jpg)
-![tanjungpinang6](https://github.com/wendyjaya/wendyjaya.github.io/blob/main/photo4jpg.jpg)
 ![tanjungpinang7](https://github.com/wendyjaya/wendyjaya.github.io/blob/main/photo5jpg.jpg)
