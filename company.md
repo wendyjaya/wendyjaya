@@ -4,4 +4,7 @@
 
 _*IT Services (ITS)*_ is a team of 5000+ skilled IT professionals that help to keep DPDHL running smoothly 24/7.  
 ITS has evolved from a centralized IT provider to a trusted technology partner, and now our vision is to be a competitive advantage for the Group.
+We work #TogetherUnstoppable with you to deliver the best solutions for our colleagues and customers.
+For more information, you may log on to [myITS Portal](https://reqit.dhl.com/myits).
+
 
