@@ -1,6 +1,6 @@
 ## Craving for food? 
 ### Honey Bear
-![Honey Bear](https://wendyjaya.github.io/wendyjaya/wendyjaya.github.io/blob/main/unnamed1.jpg)
+![Honey Bear](https://github.com/wendyjaya/wendyjaya.github.io/blob/main/unnamed1.jpg)
 
 ### Mochi Bun
 ![Mochi Bun](https://wendyjaya.github.io/wendyjaya/wendyjaya.github.io/blob/main/unnamed2.jpg)
