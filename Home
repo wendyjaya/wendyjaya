@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/wendyjaya/wendyjaya.git
 git push -u origin main
 git clone https://github.com/jekyll/minima.git
+git commit -m "Add images"
