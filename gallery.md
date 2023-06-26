@@ -12,4 +12,4 @@
 ![Polo Bun](https://github.com/wendyjaya/wendyjaya.github.io/blob/main/unnamed4.jpg)
 
 ### Emperor Noodle
-![Emperor Noodle]((https://github.com/wendyjaya/wendyjaya.github.io/blob/main/unnamed5.jpg)
+![Emperor Noodle](https://github.com/wendyjaya/wendyjaya.github.io/blob/main/unnamed5.jpg)
